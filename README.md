@@ -1,8 +1,8 @@
 # UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning
 
-Are you interested in ABSA? Welcome to view our curated [ABSA-Reading-List](https://github.com/NUSTM/ABSA-Reading-List). 
+>Are you interested in ABSA? Welcome to view our curated [ABSA-Reading-List](https://github.com/NUSTM/ABSA-Reading-List) ![](https://img.shields.io/github/stars/NUSTM/ABSA-Reading-List?style=social). 
 
-Are you troubled by no or few labeled data for ABSA? Check out our latest work, [FS-ABSA](https://github.com/NUSTM/FS-ABSA), accepted by SIGIR 2023.
+>Are you troubled by no or few labeled data for ABSA? Feel free to check out our latest work, [FS-ABSA](https://github.com/NUSTM/FS-ABSA) ![](https://img.shields.io/github/stars/NUSTM/FS-ABSA?style=social), accepted by SIGIR 2023.
 
 
 ## Overview
