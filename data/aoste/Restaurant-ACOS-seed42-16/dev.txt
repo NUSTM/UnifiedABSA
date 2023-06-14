@@ -1,0 +1,7 @@
+also , specify if you like your food spicy - its rather bland if you do n ' t .####[('food', 'negative', 'bland')]
+lloovve this place .####[('place', 'positive', 'lloovve')]
+the food is good , especially their more basic dishes , and the drinks are delicious .####[('basic dishes', 'positive', 'good'), ('drinks', 'positive', 'delicious'), ('food', 'positive', 'good')]
+the place is a bit hidden away , but once you get there , it ' s all worth it .####[('place', 'positive', 'worth'), ('place', 'positive', 'hidden away')]
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests .####[("water ' s edge", 'positive', 'highest compliments')]
+the only thing that strikes you is the decor ? ( not very pleasant ) .####[('decor', 'negative', 'not very pleasant')]
+single worst restaurant in manhattan####[('restaurant', 'negative', 'worst')]

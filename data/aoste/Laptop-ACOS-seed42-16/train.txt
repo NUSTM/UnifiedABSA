@@ -1,0 +1,8 @@
+thanks to its ssd , it boots windows 10 pretty fast , bloatware is kept to a minimum ( please uninstall norton before doing anything else .####[('windows 10', 'positive', 'fast')]
+first time chrome os user , very streamlined and easy to use .####[('chrome os', 'positive', 'streamlined'), ('chrome os', 'positive', 'easy')]
+beautiful resolution####[('resolution', 'positive', 'beautiful')]
+mac really knows how to build a good dev laptop####[('mac', 'positive', 'good')]
+i love the way it looks and feels the only thing i can complain about is the fact that none of these electronics come with printed manuels anymore also dont know anything about the camera only see me .####[('camera', 'negative', 'complain')]
+don ' t know what was going on , but , it seems like this laptop is working fine .####[('laptop', 'positive', 'fine')]
+i hate to knock acer as they ' re the only brand i ' ve ever purchased and this is the first major issue i ' ve ever had with them , but it was frustrating spending that much time charging and almost finishing the configurations and set - up of a brand - new product and then not being able to turn it on to use it .####[('product', 'negative', 'frustrating')]
+i absolutely love everything about this chromebook .####[('chromebook', 'positive', 'love')]

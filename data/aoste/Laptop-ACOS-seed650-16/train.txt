@@ -1,0 +1,8 @@
+great laptop for expansion and upgrade .####[('laptop', 'positive', 'great')]
+bigger screen####[('screen', 'positive', 'bigger')]
+well macbook is no less than expected .####[('macbook', 'positive', 'well')]
+keyboard layout is not the best , do not like that i have to press the function key to raise or lower the volume / brightness on the arrow keys .####[('keyboard layout is', 'neutral', 'not the best')]
+it ' s a good system and has loads of space available for storage :####[('system', 'positive', 'good'), ('storage', 'positive', 'available')]
+support got quite unpleasant when i ask about replacement .####[('support', 'negative', 'unpleasant')]
+touch screen is really responsive .####[('touch screen', 'positive', 'responsive')]
+the touchscreen is great though and feels very intuitive .####[('touchscreen', 'positive', 'intuitive'), ('touchscreen', 'positive', 'great')]

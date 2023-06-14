@@ -1,0 +1,8 @@
+the combination of super - fresh ingredients in the dishes are unusual but really delicious .####[('ingredients', 'positive', 'unusual'), ('ingredients', 'positive', 'delicious'), ('ingredients', 'positive', 'super - fresh')]
+my girlfriend and i stumbled onto this hopping place the other night and had a great time !####[('place', 'positive', 'great time')]
+but the service was a bit slow .####[('service', 'negative', 'slow')]
+wonderful strawberry daiquiries as well !####[('strawberry daiquiries', 'positive', 'wonderful')]
+personal pans are the perfect size for those hungry nights .####[('personal pans', 'positive', 'perfect')]
+the food was excellent as well as service , however , i left the four seasons very dissappointed .####[('service', 'positive', 'excellent'), ('food', 'positive', 'excellent'), ('the four seasons', 'negative', 'dissappointed')]
+however , once i received my predictably mediocre order of what dokebi thinks passes as korean fair , ( sometimes you have to settle when it ' s your only option ) , i got through about half my kimchee before i found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .####[('kimchee', 'negative', 'bad'), ('kimchee', 'negative', 'slimy'), ('kimchee', 'negative', 'disgusting'), ('korean fair', 'negative', 'mediocre')]
+over all it was a very nice romantic place .####[('place', 'positive', 'nice'), ('place', 'positive', 'romantic')]

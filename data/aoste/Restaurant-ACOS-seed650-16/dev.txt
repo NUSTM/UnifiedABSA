@@ -1,0 +1,8 @@
+this place has got to be the best japanese restaurant in the new york area .####[('place', 'positive', 'best')]
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area .####[('wine', 'positive', 'excellent'), ('service', 'positive', 'excellent'), ('pizza', 'positive', 'excellent')]
+decor is nice though service can be spotty .####[('decor', 'positive', 'nice'), ('service', 'negative', 'spotty')]
+with the theater 2 blocks away we had a delicious meal in a beautiful room .####[('meal', 'positive', 'delicious'), ('room', 'positive', 'beautiful')]
+interesting selection , good wines , service fine , fun decor .####[('decor', 'positive', 'fun'), ('selection', 'positive', 'interesting'), ('service', 'positive', 'fine'), ('wines', 'positive', 'good')]
+the food here was mediocre at best .####[('food', 'negative', 'mediocre')]
+i love their chicken pasta cant remember the name but is sooo good####[('chicken pasta', 'positive', 'good'), ('chicken pasta', 'positive', 'love')]
+the food was ok and fair nothing to go crazy .####[('food', 'neutral', 'ok'), ('food', 'neutral', 'fair')]

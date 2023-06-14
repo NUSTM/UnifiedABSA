@@ -1,0 +1,6 @@
+i love this chromebook !####[('chromebook', 'love')]
+its cheap plastic and honestly , the keyboard its really bad .####[('keyboard', 'bad')]
+laptop in perfect condition .####[('laptop', 'perfect')]
+we ' ve got android nougat on beta running pretty well now .####[('android nougat', 'well')]
+it is the nicest chrome computer i have ever owned .####[('chrome computer', 'nicest')]
+the screen on this looks great , the bezels aren ' t noticeable .####[('screen', 'great'), ('bezels', "' t noticeable")]
