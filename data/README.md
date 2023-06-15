@@ -4,15 +4,25 @@
 
 ## Task Name
 ACD: Aspect Category Detection
+
 ACOS: Aspect-Category-Opinion-Sentiment Quadruple Extraction
+
 ACSTE: Aspect-Category-Sentiment Triple Extraction
+
 AOSTE: Aspect-Opinion-Sentiment Triple Extraction
+
 AOOE: Aspect-Oriented Opinion Extraction (given a aspect, extract the coresponding opinion)
+
 AOPE: Aspect-Opinion Pair Extraction
+
 AOSC: Aspect-Oriented Sentiment Classification (also aka ABSC)
+
 ASPE: Aspect-Sentiment Pair Extraction (also aka E2E-ABSA)
+
 ATE: Aspect Term Extraction
+
 COSC: Category-Oriented Sentiment Classification (as similar with ABSC)
+
 CSPE: Category-Sentiment Pair Extraction (as similar with ASPE)
 
 ## Few-shot Dataset Naming
