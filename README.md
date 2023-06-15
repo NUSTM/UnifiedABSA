@@ -1,4 +1,4 @@
-# UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning
+# [UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning](https://arxiv.org/abs/2211.10986)
 
 >Are you interested in ABSA? Welcome to view our curated [ABSA-Reading-List](https://github.com/NUSTM/ABSA-Reading-List) ![](https://img.shields.io/github/stars/NUSTM/ABSA-Reading-List?style=social). 
 
@@ -9,7 +9,7 @@
 
 ![](./asset/model-main-and-schema.png)
 
-In this work, we present **UnifiedABSA**, a general-purpose multi-task ABSA framework based on multi-task instruction-tuning. 
+In this work, we present [**UnifiedABSA**](https://arxiv.org/abs/2211.10986), a general-purpose multi-task ABSA framework based on multi-task instruction-tuning. 
 Specifically, 
 - we formulate all ABSA tasks as a conditional generation problem. 
 - we design unified sentiment instructions (USI) for each task to help the model distinguish between various ABSA tasks.
